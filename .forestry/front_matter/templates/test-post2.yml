@@ -25,3 +25,5 @@ fields:
     max: 
   label: Description
   description: Demo text here
+pages:
+- content/posts/post2/blog-pages-01.md
